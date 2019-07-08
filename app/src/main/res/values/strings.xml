@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="title">Add Your Tasks</string>
+    <string name="task">Task Name:</string>
+    <string name="hintTask">Enter Task</string>
+    <string name="TaskDes">Task Description:</string>
+    <string name="hintDes">Enter Task Description</string>
+    <string name="sec">Remind Me in : </string>
+    <string name="hintSec">Enter in seconds</string>
+    <string name="btnAddTask">Add Task</string>
+    <string name="btnShowTask">View Tasks</string>
+    <string name="date">Click here to select day</string>
+    <string name="time">Click here to select time</string>
+    <string name="date2">Date:</string>
+    <string name="time2">Time:</string>
+    <string name="number">Number Of Tasks: </string>
+
+
+
+</resources>
